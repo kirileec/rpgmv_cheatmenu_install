@@ -1,0 +1,7 @@
+﻿__history
+*.dcu
+Win32/Debug
+__recovery
+Win64/Debug
+Win32
+Win64
