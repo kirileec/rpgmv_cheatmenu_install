@@ -1,7 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = #21551#21160'RPG Maker MV'#20316#24330
+  Caption = #21551#21160'RPG Maker MV'#20316#24330' by linx 2019-09-21'
   ClientHeight = 69
   ClientWidth = 678
   Color = clBtnFace
